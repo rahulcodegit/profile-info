@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## How to use
 
-We can git clone the project using [https://github.com/rahulcodegit/rahul-pandey-front-end-engineer-18July2022](https://github.com/rahulcodegit/rahul-pandey-front-end-engineer-18July2022) link or download the repository. Once downloaded run the following commands:
+We can git clone the project using [https://github.com/rahulcodegit/rahul-pandey-front-end-engineer-18July2022.git](https://github.com/rahulcodegit/rahul-pandey-front-end-engineer-18July2022.git) link or download the repository. Once downloaded run the following commands:
 
 1. npm install
 2. npm start
