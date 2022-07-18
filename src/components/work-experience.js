@@ -103,7 +103,7 @@ function Workexperience() {
 
   const handleCancelExp = () => { setIsModalVisibleExp(false); }
   
-  const enableEndDate = () => { setCheckdate(false)}
+  const enableEndDate = () => {setisActive(true); setCheckdate(false)}
 
   // Editing work experience data
   const editDetails = (item) =>{
