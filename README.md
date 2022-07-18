@@ -47,6 +47,9 @@ When you click on Add Work Experience Button, user is prompted to enter its curr
 
 After entering above details, user will be able to see its work experience details in the page. User can edit or delete the listed work experience using the edit and delete button.
 
+### `Responsive Page`
+Profile page is complete responsive, it will work in all devices (desktops, tablets, and phones)
+
 ### `Technology and library`
 1. React JS(18.2.0)
 2. Ant Design (UI Library)
