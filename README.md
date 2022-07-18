@@ -33,6 +33,7 @@ It contains a title of the Page(My Profile).
 
 Basic Info:
 Here we upload the user profile pic(Click on Upload Profile) and save Basic Information(Name and Age)(Click on Edit Information).
+Initially Name and Age Field will be blank. Click on Edit Information button to enter details and save it. Once saved, we can view the information.
 
 Work Experience:
 When you click on Add Work Experience Button, user is prompted to enter its current and past work experience details. It contains the following fields:
@@ -45,3 +46,7 @@ When you click on Add Work Experience Button, user is prompted to enter its curr
 - Job Description
 
 After entering above details, user will be able to see its work experience details in the page. User can edit or delete the listed work experience using the edit and delete button.
+
+### `Technology and library`
+1. React JS(18.2.0)
+2. Ant Design (UI Library)
